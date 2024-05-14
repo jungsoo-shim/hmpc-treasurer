@@ -1,0 +1,17 @@
+HMPC Treasurer
+
+[Date](YYYY/MM/DD)
+
+Donation Income Management
+
+Individual Donation Management
+
+Donation Number Management
+
+Print Weekly Report
+
+Construction/missionary offering management
+
+Year-end Settlement
+
+Quit
